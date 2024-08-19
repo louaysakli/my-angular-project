@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "ProductLot de 6 chaises - Noir - Scandinave - Pieds bois 1",
+            "price": 19.99,
+            "image": "https://cdn.manomano.com/lot-de-6-chaises-noir-scandinave-pieds-bois-P-31435261-99722848_1.jpg",
+            "description": "Description of Product 1"
+        },
+        {
+            "id": 2,
+            "name": "table",
+            "price": 29.99,
+            "image": "https://cdn.manomano.com/table-de-jardin-extensible-piazza-anthracite-graphite-10-places-en-aluminium-traite-epoxy-hesperide-graphite-P-34767973-127533077_1.jpg",
+            "description": "Table de jardin extensible Piazza anthracite & graphite 10 places en aluminium traité époxy - Hespéride"
+        },
+        {
+            "id": 3,
+            "name": " Table de jardin extensible Piazza anthracite & graphite 10 places en aluminium traité époxy - Hespéride",
+            "price": 39.99,
+            "image": "https://cdn.manomano.com/devoko-table-de-jardin-extensible-aluminium-81-163-x-81-x-75-cm-gris-clair-gris-clair-T-25951094-109133961_1.jpg",
+            "description": "Description of Product 3"
+        },
+        {
+            "id": 4,
+            "name": "Table de jardin extensible Piazza anthracite & graphite 10 places en aluminium traité époxy - Hespéride",
+            "price": 39.99,
+            "image": "https://cdn.manomano.com/table-de-pique-nique-festin-T-35781043-131435636_1.jpg",
+            "description": "Description of Product 3"
+        },
+        {
+            "id": 5,
+            "name": "Table de jardin extensible Piazza anthracite & graphite 10 places en aluminium traité époxy - Hespéride",
+            "price": 39.99,
+            "image": "https://cdn.manomano.com/mondeer-lot-de-2-chaise-de-camping-pliable-avec-porte-gobelet-portable-exterieure-pour-plage-voyage-peche-barbecue-bleu-T-21460765-53940487_1.jpg",
+            "description": "Description of Product 3"
+        },
+        {
+            "id": 6,
+            "name": "Table de jardin extensible Piazza anthracite & graphite 10 places en aluminium traité époxy - Hespéride",
+            "price": 39.99,
+            "image": "https://cdn.manomano.com/salon-de-jardin-polynesia-havane-4-places-en-aluminium-traite-epoxy-hesperide-havane-T-34767973-128541103_1.jpg",
+            "description": "Description of Product 3"
+        }
+    ]
+}
